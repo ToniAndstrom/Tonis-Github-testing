@@ -7,3 +7,5 @@
 -make changes on the ocal repository and then push it to the remote repository
 -Solve merge conflict
 -Update the readme file with instructions how to avaoid merge conflict and how to solve it
+
+Learn please
